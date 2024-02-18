@@ -3,7 +3,7 @@
     "version": "17.0.1.0.0",
     "summary": """Removes the Send Message button from chatter.""",
     "author": "Armin",
-    "license": "GPL-2",
+    "license": "GPL-3",
     "depends": [
         "mail"
     ],
